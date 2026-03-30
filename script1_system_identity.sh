@@ -1,5 +1,5 @@
 
-STUDENT_NAME="[abhyansh balbbhadra]"      
+STUDENT_NAME="[abhyansh balbhadra]"      
 REG_NO="[24bec10027]"          
 SOFTWARE_CHOICE="Git"           
 
